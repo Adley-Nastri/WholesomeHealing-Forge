@@ -1,4 +1,4 @@
-package com.github.adleynastri.wholsomehealing.config;
+package com.github.adleynastri.wholesomehealing.config;
 
 
 import net.minecraftforge.common.ForgeConfigSpec;

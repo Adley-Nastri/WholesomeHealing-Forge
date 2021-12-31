@@ -1,8 +1,8 @@
-package com.github.adleynastri.wholsomehealing;
+package com.github.adleynastri.wholesomehealing;
 
-import com.github.adleynastri.wholsomehealing.config.ConfigFile;
-import com.github.adleynastri.wholsomehealing.event.EventHandler;
-import com.github.adleynastri.wholsomehealing.item.ModItems;
+import com.github.adleynastri.wholesomehealing.config.ConfigFile;
+import com.github.adleynastri.wholesomehealing.event.EventHandler;
+import com.github.adleynastri.wholesomehealing.item.ModItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.api.distmarker.Dist;
@@ -26,7 +26,7 @@ import org.apache.logging.log4j.Logger;
 
 import java.util.stream.Collectors;
 
-import static com.github.adleynastri.wholsomehealing.WholesomeHealing.MOD_ID;
+import static com.github.adleynastri.wholesomehealing.WholesomeHealing.MOD_ID;
 
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(MOD_ID)

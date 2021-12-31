@@ -1,7 +1,7 @@
-package com.github.adleynastri.wholsomehealing.item;
+package com.github.adleynastri.wholesomehealing.item;
 
 
-import com.github.adleynastri.wholsomehealing.config.ConfigFile;
+import com.github.adleynastri.wholesomehealing.config.ConfigFile;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.particles.ParticleTypes;
 import net.minecraft.core.particles.SimpleParticleType;

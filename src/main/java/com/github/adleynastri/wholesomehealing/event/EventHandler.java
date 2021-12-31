@@ -1,9 +1,9 @@
-package com.github.adleynastri.wholsomehealing.event;
+package com.github.adleynastri.wholesomehealing.event;
 
 
-import com.github.adleynastri.wholsomehealing.WholesomeHealing;
-import com.github.adleynastri.wholsomehealing.config.ConfigFile;
-import com.github.adleynastri.wholsomehealing.item.ModItems;
+import com.github.adleynastri.wholesomehealing.WholesomeHealing;
+import com.github.adleynastri.wholesomehealing.config.ConfigFile;
+import com.github.adleynastri.wholesomehealing.item.ModItems;
 import net.minecraft.core.particles.ParticleTypes;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.sounds.SoundEvents;

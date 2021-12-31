@@ -1,6 +1,6 @@
-package com.github.adleynastri.wholsomehealing.item;
+package com.github.adleynastri.wholesomehealing.item;
 
-import com.github.adleynastri.wholsomehealing.WholesomeHealing;
+import com.github.adleynastri.wholesomehealing.WholesomeHealing;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
