@@ -1,3 +1,5 @@
 {
-  "item.wholesomehealing.bandage": "Bandage"
+  "item.wholesomehealing.bandage": "Bandage",
+  "item.wholesomehealing.icon_item": "Wholesome Icon",
+  "itemGroup.wholesomeHealingTab" : "Wholesome Healing"
 }

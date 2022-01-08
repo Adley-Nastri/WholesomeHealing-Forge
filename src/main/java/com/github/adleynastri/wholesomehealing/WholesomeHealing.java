@@ -2,7 +2,7 @@ package com.github.adleynastri.wholesomehealing;
 
 import com.github.adleynastri.wholesomehealing.config.ConfigFile;
 import com.github.adleynastri.wholesomehealing.event.EventHandler;
-import com.github.adleynastri.wholesomehealing.item.ModItems;
+import com.github.adleynastri.wholesomehealing.item.WholesomeItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.api.distmarker.Dist;
@@ -48,7 +48,9 @@ public class WholesomeHealing {
 
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
-        ModItems.register(eventBus);
+        WholesomeItems.register(eventBus);
+
+
 
         eventBus.addListener(this::setup);
 
@@ -97,4 +99,5 @@ public class WholesomeHealing {
             LOGGER.info("HELLO from Register Block");
         }
     }
+
 }
